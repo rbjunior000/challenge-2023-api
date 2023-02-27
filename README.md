@@ -33,7 +33,13 @@ $ npm install
 ```
 
 ## Running the app
+# it is necessary to run a local postgres database, run the migrations, and prisma generate.
 
+$ npx prisma generate
+
+To see database, you can use Prisma Studio
+
+$ npx prisma studio 
 ```bash
 # development
 $ npm run start
