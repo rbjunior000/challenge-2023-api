@@ -40,6 +40,7 @@ $ npx prisma generate
 To see database, you can use Prisma Studio
 
 $ npx prisma studio 
+
 ```bash
 # development
 $ npm run start
