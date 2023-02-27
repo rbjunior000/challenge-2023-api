@@ -33,7 +33,7 @@ $ npm install
 ```
 
 ## Running the app
-# it is necessary to run a local postgres database, run the migrations, and prisma generate.
+### it is necessary to run a local postgres database, run the migrations, and prisma generate.
 
 $ npx prisma generate
 
